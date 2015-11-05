@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace FinalGame.Classes.Monster
+{
+    class StrMonster : Monster
+    {
+        public StrMonster(int level)
+        {
+            Level = level;
+            experience = 20 + (level - 1) * 2;
+            type = "strMonster";
+            strength = BASE_STRENGTH * 2 + level - 1;
+            intellect = BASE_INTELLECT + level - 1;
+            dexterity = BASE_DEXTERITY + level - 1;
+            damage = strength / 4 + level - 1;
+            damage = (int)Math.Round(damage * 0.9);
+            hp = level * 4 + level / 5;
+            maxHP = hp;
+        }
+    }
+}

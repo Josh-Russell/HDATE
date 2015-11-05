@@ -1,0 +1,136 @@
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\bin\Debug\FinalGame.exe.config
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\obj\Debug\FinalGame.csprojResolveAssemblyReference.cache
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\CharacterCreation.baml
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\CombatGUI.baml
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\DeathScreen.baml
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\EndLevelWin.baml
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\MessageWindow.baml
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\Shop.baml
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\StartScreen.baml
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\obj\Debug\MainWindow.baml
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\CharacterCreation.g.cs
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\CombatGUI.g.cs
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\DeathScreen.g.cs
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\EndLevelWin.g.cs
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\inGame.g.cs
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\MessageWindow.g.cs
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\Shop.g.cs
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\StartScreen.g.cs
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\obj\Debug\MainWindow.g.cs
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\obj\Debug\App.g.cs
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\obj\Debug\FinalGame_Content.g.cs
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\obj\Debug\FinalGame_MarkupCompile.cache
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\obj\Debug\FinalGame_MarkupCompile.lref
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\bin\Debug\FinalGame.exe
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\bin\Debug\FinalGame.pdb
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\bin\Debug\WpfAnimatedGif.dll
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\bin\Debug\WpfAnimatedGif.xml
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\inGame.baml
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\obj\Debug\FinalGame.g.resources
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\obj\Debug\FinalGame.Properties.Resources.resources
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\obj\Debug\FinalGame.csproj.GenerateResource.Cache
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\obj\Debug\FinalGame.exe
+C:\Users\tiliff\Desktop\New folder (3)\FinalGame\FinalGame\obj\Debug\FinalGame.pdb
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\bin\Debug\FinalGame.exe.config
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\FinalGame.exe
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\FinalGame.pdb
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\bin\Debug\FinalGame.exe
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\bin\Debug\FinalGame.pdb
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\bin\Debug\WpfAnimatedGif.dll
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\bin\Debug\WpfAnimatedGif.xml
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\FinalGame.csprojResolveAssemblyReference.cache
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\CharacterCreation.baml
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\CombatGUI.baml
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\DeathScreen.baml
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\EndLevelWin.baml
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\MessageWindow.baml
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\Shop.baml
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\StartScreen.baml
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\MainWindow.baml
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\CharacterCreation.g.cs
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\CombatGUI.g.cs
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\DeathScreen.g.cs
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\EndLevelWin.g.cs
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\inGame.g.cs
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\MessageWindow.g.cs
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\Shop.g.cs
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\StartScreen.g.cs
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\MainWindow.g.cs
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\App.g.cs
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\FinalGame_Content.g.cs
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\FinalGame_MarkupCompile.cache
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\FinalGame_MarkupCompile.lref
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\inGame.baml
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\FinalGame.g.resources
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\FinalGame.Properties.Resources.resources
+C:\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\FinalGame.csproj.GenerateResource.Cache
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\bin\Debug\FinalGame.exe.config
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\FinalGame.exe
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\FinalGame.pdb
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\bin\Debug\FinalGame.exe
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\bin\Debug\FinalGame.pdb
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\FinalGame.csprojResolveAssemblyReference.cache
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\CharacterCreation.baml
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\CombatGUI.baml
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\DeathScreen.baml
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\EndLevelWin.baml
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\MessageWindow.baml
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\Shop.baml
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\StartScreen.baml
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\MainWindow.baml
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\CharacterCreation.g.cs
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\CombatGUI.g.cs
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\DeathScreen.g.cs
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\EndLevelWin.g.cs
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\inGame.g.cs
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\MessageWindow.g.cs
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\Shop.g.cs
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\StartScreen.g.cs
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\MainWindow.g.cs
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\App.g.cs
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\FinalGame_Content.g.cs
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\FinalGame_MarkupCompile.cache
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\FinalGame_MarkupCompile.lref
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\inGame.baml
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\FinalGame.g.resources
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\FinalGame.Properties.Resources.resources
+C:\Users\Tiliff\Documents\Projects\C\Users\tiliff\Desktop\Hdate\FinalGame\FinalGame\obj\Debug\FinalGame.csproj.GenerateResource.Cache
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\bin\Debug\FinalGame.exe.config
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\obj\Debug\FinalGame.exe
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\obj\Debug\FinalGame.pdb
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\bin\Debug\FinalGame.exe
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\bin\Debug\FinalGame.pdb
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\bin\Debug\WpfAnimatedGif.dll
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\bin\Debug\WpfAnimatedGif.xml
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\obj\Debug\FinalGame.csprojResolveAssemblyReference.cache
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\CharacterCreation.baml
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\CombatGUI.baml
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\DeathScreen.baml
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\EndLevelWin.baml
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\MessageWindow.baml
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\Shop.baml
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\StartScreen.baml
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\obj\Debug\MainWindow.baml
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\CharacterCreation.g.cs
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\CombatGUI.g.cs
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\DeathScreen.g.cs
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\EndLevelWin.g.cs
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\inGame.g.cs
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\MessageWindow.g.cs
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\Shop.g.cs
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\StartScreen.g.cs
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\obj\Debug\MainWindow.g.cs
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\obj\Debug\App.g.cs
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\obj\Debug\FinalGame_Content.g.cs
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\obj\Debug\FinalGame_MarkupCompile.cache
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\obj\Debug\FinalGame_MarkupCompile.lref
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\obj\Debug\Classes\Game Elements\inGame.baml
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\obj\Debug\FinalGame.g.resources
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\obj\Debug\FinalGame.Properties.Resources.resources
+C:\Users\JRussell\Documents\School\DigitialPort\Hdate\FinalGame\FinalGame\obj\Debug\FinalGame.csproj.GenerateResource.Cache
